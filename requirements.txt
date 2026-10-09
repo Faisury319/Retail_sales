@@ -1,0 +1,9 @@
+pandas
+joblib
+openpyxl
+streamlit
+scikit-learn
+pandas
+numpy
+pickle-mixin
+matplotlib
